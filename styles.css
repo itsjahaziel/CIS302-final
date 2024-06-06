@@ -1,0 +1,40 @@
+html {
+  background: rgb(14, 141, 31);
+}
+
+table {
+  width: 600px;
+  background-color: rgb(162, 240, 172);
+  margin: auto;
+  margin-top: 50px;
+  font-size: 14pt;
+  border-collapse: collapse;
+  border: 2px solid black;
+}
+caption {
+  font-size: 24pt;
+  text-align: left;
+  padding-bottom: 5px;
+  padding-left: 3px;
+  color: rgb(255, 255, 255);
+}
+th {
+  border: 2px solid black;
+  padding: 10px;
+}
+td {
+  border: 2px solid black;
+  padding: 20px;
+}
+
+img {
+  width: 200px;
+  height: 150px;
+  padding: 10px;
+  border: solid rgb(14, 141, 31) 4px;
+}
+p {
+  text-align: center;
+  padding-right: 50px;
+  color: rgb(255, 255, 255);
+}
